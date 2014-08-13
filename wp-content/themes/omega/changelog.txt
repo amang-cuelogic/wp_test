@@ -1,0 +1,65 @@
+1.0.0   - (20th May 2014)
+        - Updated revolution slider package
+        - Added new Home Revolution Slider
+        - Fix for one click installer layerslider
+        - improved google analytics code
+        - extra attributes added to chart shortcode
+        - updated typography docs
+        - Fixed top bar alignement on small screens
+        - Fixed navigatiion bottom border issue
+        - Added option for mega menu links
+        - Added missing FavIcons
+        - Added nicer editor style to backend tinymce
+        - Styled Backend Options
+        - Fixed Woocommerce Cart list Width
+        - Added option for labels in the
+        - Added normal width page template
+        - Theme Forest Fixes
+        - Added support for Gravity Forms
+        - Added class for "Ghost button" on main menu
+        - Select boxes caret is now Clickable
+        - Fixed pagination hover colour on active pages
+        - Styled sticky posts
+
+1.1.0   - (24th May 2014)
+        - Fixed Swatch Compile For IIS servers
+        - Better error checking on SCSS compile
+        - Added BBPress Support
+        - Updated Font Awesome to 4.1.0
+        - All custom post types now support revisions
+        - Portfolio Items now support comments
+        - Comments on pages now in their own section
+        - Fixed Search widget on transparent header
+        - Added Styling for Mega menu Column Descriptions
+        - Added title option to social widget
+        - Added Sidebar element to VC plugin
+
+1.1.1   - (31st May 2014)
+        - Fixed Video Element
+        - Added Gravity Forms component in Visual Composer
+        - Fixed Video Element OnScroll
+        - Updated Docs
+
+1.2.0   - (6th June 2014)
+        - Fixed ghost menu items on small screens
+        - Fixed quote post footer allignment on recent posts and masonry
+        - Added new blockquote shortcode
+        - Fixed wrong initial offset for fixed position navbar
+        - Added related portfolio section to single portfolio items
+        - Added SmoothScroll js
+        - Added transparent option to sections
+        - Demo content installer now downloads slideshows to reduce theme size
+        - Updated Visual Composer plugin to version 4.2.2
+        - Removed LayerSlider demos to reduce theme size
+        - Full height sections now working with CSS3
+        - Added animated colour backgrounds to sections
+        - Fixed bug in sharing options on blog single pages ( can now be turned off )
+        - Added new testimonials shortcode Testimonials List
+        - Added default Visual Composer templates ( can be installed in Advanced options page )
+        - Added speed option to testimonials shortcode
+        - Improved styling for contact form 7 messages
+        - Throttled demo content install to fix installation issues on GoDaddy servers
+        - Fixed bug in saving large menus via ajax
+        - Fixed bug in BBPress search not showing topics
+        - Updated Docs
+

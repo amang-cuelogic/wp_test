@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<phpdoc>
+    <title>Oxygenna's Theme Framework</title>
+    <parser>
+        <target>docs</target>
+        <extensions>
+            <extension>php</extension>
+        </extensions>
+    </parser>
+    <transformer>
+        <target>docs</target>
+    </transformer>
+    <files>
+        <directory>.</directory>
+        <ignore>*/vendor/*</ignore>
+    </files>
+</phpdoc>

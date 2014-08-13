@@ -1,0 +1,53 @@
+.import-list {
+  width: 100%;
+}
+
+.status-error {
+  color: red;
+}
+
+.status-ok {
+  color: green;
+}
+
+.row-error td {
+  color: red;
+}
+
+.row-ok td {
+  color: green;
+}
+
+.biglabel {
+  font-size: 18px;
+  padding-bottom: 24px;
+  clear: both;
+  display: block;
+}
+
+.one-click-finished {
+  position: relative;
+  margin: 25px 40px 0 20px;
+  max-width: 1050px;
+  font-size: 15px;
+}
+.one-click-finished h1 {
+  margin: .2em 400px 0 0;
+  color: #333;
+  line-height: 1.2em;
+  font-size: 2.8em;
+  font-weight: 400;
+}
+.one-click-finished .theme-image {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 300px;
+}
+.one-click-finished .theme-image img {
+  width: 300px;
+}
+.one-click-finished .about-text {
+  margin: 1em 400px 1em 0;
+  line-height: 1.6em;
+}

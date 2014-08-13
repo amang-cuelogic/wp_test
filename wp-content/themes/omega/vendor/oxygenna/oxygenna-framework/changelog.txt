@@ -1,0 +1,9 @@
+0.1     - (9th April 2014)
+        - initial release
+
+0.2     - (11th April 2014)
+        - added build system
+        - added codesniffer
+        - added phpdoc
+
+

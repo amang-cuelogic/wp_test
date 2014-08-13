@@ -1,0 +1,68 @@
+//
+// Variables
+// --------------------------------------------------
+
+
+// Global values
+// --------------------------------------------------
+
+
+// Grays
+// -------------------------
+$black:                 #000 !default;
+$gray-darker:            #1c1c1c !default;
+$gray-dark:              #4c4c4c !default;
+$gray:                  #6c6c6c !default;
+$gray-light:             #8c8c8c !default;
+$gray-lighter:           #e9e9e9 !default;
+$white:                 #fff !default;
+
+
+// Accent colors
+// -------------------------
+$blue:                	#82c9ed !default;
+$blue-dark:              #0064cd !default;
+$green:                 #427e77 !default;
+$red:                   #e74c3c !default;
+$yellow:                #ffc40d !default;
+$orange:                #f4a868 !default;
+$pink:                  #f17c72 !default;
+$purple:                #7a43b6 !default;
+
+// Form states and alerts
+// -------------------------
+$state-warning-text:             #65625d !default;
+$state-warning-bg:               #f7b244 !default;
+$state-warning-border:           #d59939 !default;
+
+$state-error-text:               #605655 !default;
+$state-error-bg:                 #dd5f52 !default;
+$state-error-border:             #a94238 !default;
+
+$state-success-text:             #555c52 !default;
+$state-success-bg:               #86df61 !default;
+$state-success-border:           #67b348 !default;
+
+$state-info-text:                #6f7c84 !default;
+$state-info-bg:                  #7cbfec !default;
+$state-info-border:              #6f7c84 !default;
+
+
+// Buttons
+// -------------------------
+$btn-default-bg:                 $gray !default;
+$btn-primary-bg:                 darken($red, 5) !default;
+$btn-info-bg:                    #5d89ac !default;
+$btn-success-bg:                 $green !default;
+$btn-warning-bg:                 darken($orange, 10) !default;
+$btn-danger-bg:                  $red !default;
+$btn-inverse-bg:                 #444 !default;
+
+// Header
+// -------------------------
+$navbar-height: 90px;
+$navbar-scrolled: 70px;
+$submenu-width: 220px;
+$logo-height: 42px;
+$logo-width: 42px;
+$element-height: 24px;
