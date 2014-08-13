@@ -33,6 +33,9 @@ define('DB_CHARSET', 'utf8');
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
 
+/* Added for increasign the memory limit*/
+define( 'WP_MEMORY_LIMIT', '256M' );
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *
@@ -59,7 +62,7 @@ define('NONCE_SALT',       'NFY{/}R*O1r}bc-=.Lrk@.uax@j*%~KKmUYyjcYY8lHu</Wn3GKY
  * You can have multiple installations in one database if you give each a unique
  * prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix  = 'wp_';
+$table_prefix  = 'ikssti_';
 
 /**
  * WordPress Localized Language, defaults to English.
@@ -70,6 +73,9 @@ $table_prefix  = 'wp_';
  * language support.
  */
 define('WPLANG', '');
+
+/* added for allowing user to upload plugin through browsers*/
+define('FS_METHOD', 'direct');
 
 /**
  * For developers: WordPress debugging mode.

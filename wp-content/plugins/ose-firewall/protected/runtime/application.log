@@ -1,0 +1,36 @@
+2014/08/13 13:29:56 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/wp_test/wp-includes/plugin.php (470)
+in /var/www/html/wp_test/wp-admin/admin-ajax.php (82)
+2014/08/13 13:29:56 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/wp_test/wp-includes/plugin.php (470)
+in /var/www/html/wp_test/wp-admin/admin-ajax.php (82)
+2014/08/13 13:29:56 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/wp_test/wp-includes/plugin.php (470)
+in /var/www/html/wp_test/wp-admin/admin-ajax.php (82)
+2014/08/13 13:29:56 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `ikssti_usermeta` where `meta_value` LIKE '%administrator%'
+in /var/www/html/wp_test/wp-includes/plugin.php (470)
+in /var/www/html/wp_test/wp-admin/admin-ajax.php (82)
+2014/08/13 13:29:56 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/wp_test/wp-includes/plugin.php (470)
+in /var/www/html/wp_test/wp-admin/admin-ajax.php (82)
+2014/08/13 13:29:56 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/wp_test/wp-content/plugins/ose-firewall/protected/library/firewallstat/firewallstatBase.php (1085)
+in /var/www/html/wp_test/wp-content/plugins/ose-firewall/protected/models/ConfigurationModel.php (66)
+in /var/www/html/wp_test/wp-content/plugins/ose-firewall/protected/controllers/ScanconfigController.php (40)
+2014/08/13 13:29:56 [trace] [system.db.CDbConnection] Closing DB connection
+in /var/www/html/wp_test/wp-content/plugins/ose-firewall/protected/library/firewallstat/firewallstatBase.php (1087)
+in /var/www/html/wp_test/wp-content/plugins/ose-firewall/protected/models/ConfigurationModel.php (66)
+in /var/www/html/wp_test/wp-content/plugins/ose-firewall/protected/controllers/ScanconfigController.php (40)
+2014/08/13 13:29:56 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/wp_test/wp-content/plugins/ose-firewall/protected/library/firewallstat/firewallstatBase.php (1088)
+in /var/www/html/wp_test/wp-content/plugins/ose-firewall/protected/models/ConfigurationModel.php (66)
+in /var/www/html/wp_test/wp-content/plugins/ose-firewall/protected/controllers/ScanconfigController.php (40)
+2014/08/13 13:29:56 [trace] [system.db.CDbCommand] Querying SQL: SELECT `key`, `value` FROM `ikssti_ose_secConfig` WHERE `type` = 'scan'
+in /var/www/html/wp_test/wp-content/plugins/ose-firewall/protected/library/firewallstat/firewallstatBase.php (1088)
+in /var/www/html/wp_test/wp-content/plugins/ose-firewall/protected/models/ConfigurationModel.php (66)
+in /var/www/html/wp_test/wp-content/plugins/ose-firewall/protected/controllers/ScanconfigController.php (40)
+2014/08/13 13:29:56 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/html/wp_test/wp-content/plugins/ose-firewall/protected/library/firewallstat/firewallstatBase.php (1088)
+in /var/www/html/wp_test/wp-content/plugins/ose-firewall/protected/models/ConfigurationModel.php (66)
+in /var/www/html/wp_test/wp-content/plugins/ose-firewall/protected/controllers/ScanconfigController.php (40)
+2014/08/13 13:29:56 [trace] [system.CModule] Loading "errorHandler" application component
